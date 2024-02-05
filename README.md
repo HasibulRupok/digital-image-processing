@@ -4,3 +4,4 @@
 ### CNN hyperparameter tuning: [view](https://github.com/HasibulRupok/digital-image-processing/blob/main/Tune_hyperparameters.ipynb)
 ### CNN Example using ConvNext, augmentation: [view](https://github.com/HasibulRupok/digital-image-processing/blob/main/convNextFamily.ipynb)
 ### Classification Report  [view code](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/12_precision_recall/12_precision_recall.ipynb) , [tutorial](https://www.youtube.com/watch?v=2osIZ-dSPGE)
+### Stacked CNN architecture (has SeNet code), includes confusion matrix, ROC curve (all pdf), classification report: [view](https://github.com/HasibulRupok/digital-image-processing/blob/main/StackedModel-Apple%20desise%20detection.ipynb)
